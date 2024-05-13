@@ -87,6 +87,8 @@ Depends:
   tuned,
   beep,
   wide-dhcpv6-client,
+  intel-microcode,
+  amd64-microcode,
 # Generic colorizer
   grc,
 ## End of System services and utilities
